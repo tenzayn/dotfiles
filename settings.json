@@ -80,4 +80,6 @@
     "workbench.settings.useSplitJSON": true,
     "workbench.startupEditor": "newUntitledFile",
     "workbench.panel.defaultLocation": "right",
+    "workbench.colorTheme": "GitHub Dark Default",
+    "terminal.explorerKind": "external",
 }
